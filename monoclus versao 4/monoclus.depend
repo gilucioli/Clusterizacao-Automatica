@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1429640449 source:c:\users\gisele\documents\monoclus\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1430352022 source:c:\users\gisele\documents\monografia\monoclus\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1430453867 source:c:\users\gisele\documents\monografia\monoclus versao 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"monoclus.h"
+
+1430420714 source:c:\users\gisele\dropbox\monografia\monoclus versao 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1430455362 source:c:\users\gisele\documents\monografia\monoclus versao 2\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1430452562 c:\users\gisele\documents\monografia\monoclus versao 2\monoclus.h
+
+1430492446 source:c:\users\gisele\documents\monografia\monoclus versao 3\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1430492008 source:c:\users\gisele\documents\monografia\monoclus versao 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"monoclus.h"
+
+1430454690 c:\users\gisele\documents\monografia\monoclus versao 3\monoclus.h
+
+1431735319 source:c:\users\gisele\documents\monoclus versao 4\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1431735237 source:c:\users\gisele\documents\monoclus versao 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"monoclus.h"
+
+1431657040 c:\users\gisele\documents\monoclus versao 4\monoclus.h
+
